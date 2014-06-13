@@ -1,0 +1,20 @@
+{
+  "name": "cjsx-loader",
+  "version": "0.0.0",
+  "description": "coffee-react-transform loader module for webpack",
+  "main": "index.js",
+  "dependencies": {
+		"loader-utils": "0.2.x"
+	},
+	"peerDependencies": {
+		"coffee-react-transform": "0.3.x"
+	},
+  "keywords": [
+    "react",
+    "coffeescript",
+    "jsx",
+    "webpack"
+  ],
+  "author": "Thibaut Sacreste",
+  "license": "ISC"
+}
