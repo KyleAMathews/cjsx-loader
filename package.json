@@ -7,7 +7,7 @@
 		"loader-utils": "0.2.x"
 	},
 	"peerDependencies": {
-		"coffee-react-transform": "0.3.x"
+		"coffee-react-transform": "0.4.x"
 	},
   "keywords": [
     "react",
