@@ -3,6 +3,7 @@
   "description": "coffee-react-transform loader module for webpack",
   "version": "0.0.1",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "bugs": "https://github.com/KyleAMathews/cjsx-loader/issues",
   "dependencies": {
     "loader-utils": "0.2.x"
   },
@@ -16,5 +17,6 @@
   "main": "index.js",
   "peerDependencies": {
     "coffee-react-transform": "0.4.x"
-  }
+  },
+  "repository": "https://github.com/KyleAMathews/cjsx-loader"
 }
