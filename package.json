@@ -5,6 +5,7 @@
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "bugs": "https://github.com/KyleAMathews/cjsx-loader/issues",
   "dependencies": {
+    "coffee-react-transform": "0.4.x",
     "loader-utils": "0.2.x"
   },
   "keywords": [
@@ -15,8 +16,5 @@
   ],
   "license": "ISC",
   "main": "index.js",
-  "peerDependencies": {
-    "coffee-react-transform": "0.4.x"
-  },
   "repository": "https://github.com/KyleAMathews/cjsx-loader"
 }
