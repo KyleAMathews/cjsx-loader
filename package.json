@@ -5,8 +5,8 @@
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "bugs": "https://github.com/KyleAMathews/cjsx-loader/issues",
   "dependencies": {
-    "coffee-react-transform": "0.4.x",
-    "loader-utils": "0.2.x"
+    "coffee-react-transform": "^0.5.0",
+    "loader-utils": "^0.2.3"
   },
   "keywords": [
     "react",
