@@ -1,12 +1,12 @@
 {
   "name": "cjsx-loader",
   "description": "coffee-react-transform loader module for webpack",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "bugs": "https://github.com/KyleAMathews/cjsx-loader/issues",
   "dependencies": {
-    "coffee-react-transform": "^1.0.1",
-    "loader-utils": "^0.2.4"
+    "coffee-react-transform": "^2.0.0",
+    "loader-utils": "^0.2.5"
   },
   "keywords": [
     "react",
